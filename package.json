@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "dotenv": "^16.0.0",
     "hardhat": "^2.9.3"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.5.1"
   }
 }
